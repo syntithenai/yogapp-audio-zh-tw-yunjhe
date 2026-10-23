@@ -1,0 +1,226 @@
+{
+  "id": "mountain-still-10",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 178,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "需要時間到達。",
+      "file": "c001.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 2,
+      "text": "在支撐下坐下或躺下。",
+      "file": "c002.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 3,
+      "text": "如果感覺安全，請閉上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 4,
+      "text": "感受與地面的接觸。",
+      "file": "c004.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 5,
+      "text": "緩慢吸氣。",
+      "file": "c005.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 6,
+      "text": "呼氣時間更長。",
+      "file": "c006.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 7,
+      "text": "[暫停：28]",
+      "file": "c007.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 8,
+      "text": "再次。",
+      "file": "c008.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 9,
+      "text": "[暫停：28]",
+      "file": "c009.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 10,
+      "text": "讓肩膀下垂。",
+      "file": "c010.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 11,
+      "text": "讓腹部變軟。",
+      "file": "c011.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 12,
+      "text": "[暫停：36]",
+      "file": "c012.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 13,
+      "text": "把自己想象成一座山。",
+      "file": "c013.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 14,
+      "text": "底座寬。山頂安靜。極大的耐心。",
+      "file": "c014.ogg",
+      "durationSec": 10.032
+    },
+    {
+      "index": 15,
+      "text": "[暫停：43]",
+      "file": "c015.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 16,
+      "text": "天氣在山上移動。",
+      "file": "c016.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 17,
+      "text": "太陽。風。雲。風暴。",
+      "file": "c017.ogg",
+      "durationSec": 11.376
+    },
+    {
+      "index": 18,
+      "text": "山仍存。",
+      "file": "c018.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 19,
+      "text": "[暫停：57]",
+      "file": "c019.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 20,
+      "text": "思想和情緒就是天氣。",
+      "file": "c020.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 21,
+      "text": "你就是那座山。",
+      "file": "c021.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 22,
+      "text": "[暫停：57]",
+      "file": "c022.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 23,
+      "text": "感覺身體的根部紮根。",
+      "file": "c023.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 24,
+      "text": "感受脊柱的高度，不產生任何壓力。",
+      "file": "c024.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 25,
+      "text": "[暫停：43]",
+      "file": "c025.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 26,
+      "text": "呼吸如山周圍的天空。",
+      "file": "c026.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 27,
+      "text": "[暫停：71]",
+      "file": "c027.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 28,
+      "text": "穩定的。不緊不慢。足夠的。",
+      "file": "c028.ogg",
+      "durationSec": 9.384
+    },
+    {
+      "index": 29,
+      "text": "[暫停：90]",
+      "file": "c029.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 30,
+      "text": "[暫停：43]",
+      "file": "c030.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 31,
+      "text": "開始加深呼吸。",
+      "file": "c031.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 32,
+      "text": "再次感受一下房間。",
+      "file": "c032.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 33,
+      "text": "擺動手指和腳趾。",
+      "file": "c033.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 34,
+      "text": "準備好後，睜開眼睛。",
+      "file": "c034.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 35,
+      "text": "慢慢地進入接下來的事情。",
+      "file": "c035.ogg",
+      "durationSec": 5.04
+    }
+  ]
+}

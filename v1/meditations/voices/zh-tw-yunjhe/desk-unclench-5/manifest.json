@@ -1,0 +1,166 @@
+{
+  "id": "desk-unclench-5",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 126,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "留在座位上。這是為了工作的中期。",
+      "file": "c001.ogg",
+      "durationSec": 8.232
+    },
+    {
+      "index": 2,
+      "text": "將目光從螢幕上暫時移開。",
+      "file": "c002.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 3,
+      "text": "如果可以的話，把目光看得遠一些。",
+      "file": "c003.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 4,
+      "text": "[暫停：28]",
+      "file": "c004.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 5,
+      "text": "向上、向後和向下滾動肩膀。",
+      "file": "c005.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 6,
+      "text": "還有兩次。",
+      "file": "c006.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 7,
+      "text": "[暫停：38]",
+      "file": "c007.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 8,
+      "text": "張開和合攏雙手。",
+      "file": "c008.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 9,
+      "text": "輕輕搖動它們。",
+      "file": "c009.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 10,
+      "text": "[暫停：28]",
+      "file": "c010.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 11,
+      "text": "軟化眉毛。",
+      "file": "c011.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 12,
+      "text": "鬆開下巴。讓舌頭休息一下。",
+      "file": "c012.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 13,
+      "text": "[暫停：38]",
+      "file": "c013.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 14,
+      "text": "吸氣到肋骨兩側。",
+      "file": "c014.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 15,
+      "text": "呼氣，讓胸部平靜下來。",
+      "file": "c015.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 16,
+      "text": "[暫停：38]",
+      "file": "c016.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 17,
+      "text": "緩慢眨眼三下。",
+      "file": "c017.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 18,
+      "text": "[暫停：28]",
+      "file": "c018.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 19,
+      "text": "又是一口氣。",
+      "file": "c019.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 20,
+      "text": "準備好後返回，稍微放鬆一下。",
+      "file": "c020.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 21,
+      "text": "[暫停：28]",
+      "file": "c021.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 22,
+      "text": "再輕鬆地吸一口氣。",
+      "file": "c022.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 23,
+      "text": "動動手指。",
+      "file": "c023.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 24,
+      "text": "準備好後，睜開眼睛。",
+      "file": "c024.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 25,
+      "text": "輕鬆地回到下一個任務。",
+      "file": "c025.ogg",
+      "durationSec": 5.04
+    }
+  ]
+}

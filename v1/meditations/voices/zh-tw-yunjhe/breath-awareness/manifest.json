@@ -1,0 +1,148 @@
+{
+  "id": "breath-awareness",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 128,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "保持穩定的姿勢。",
+      "file": "c000.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 1,
+      "text": "脊柱高但不僵硬。",
+      "file": "c001.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 2,
+      "text": "將注意力集中在已經存在的呼吸上。",
+      "file": "c002.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 3,
+      "text": "暫時不要改變它。就看吧。",
+      "file": "c003.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 4,
+      "text": "感受鼻孔處吸氣的清涼。",
+      "file": "c004.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 5,
+      "text": "感受呼氣的溫暖。",
+      "file": "c005.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 6,
+      "text": "或者注意腹部的起伏。",
+      "file": "c006.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 7,
+      "text": "選擇一個地方來休息你的注意力。",
+      "file": "c007.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 8,
+      "text": "當心走神時，請返回。",
+      "file": "c008.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 9,
+      "text": "沒有判斷力。就回來吧。",
+      "file": "c009.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 10,
+      "text": "現在，如果感覺很容易，請計算軟週期。",
+      "file": "c010.ogg",
+      "durationSec": 8.088
+    },
+    {
+      "index": 11,
+      "text": "吸氣。一。",
+      "file": "c011.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 12,
+      "text": "呼氣。一。",
+      "file": "c012.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 13,
+      "text": "吸氣。二。",
+      "file": "c013.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 14,
+      "text": "呼氣。二。",
+      "file": "c014.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 15,
+      "text": "繼續到五，然後再從一開始。",
+      "file": "c015.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 16,
+      "text": "如果你數不清了，請以善意重新開始。",
+      "file": "c016.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 17,
+      "text": "迴歸就是修行。",
+      "file": "c017.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 18,
+      "text": "讓呼吸自然。沒有壓力。",
+      "file": "c018.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 19,
+      "text": "又沉默了幾個迴圈。",
+      "file": "c019.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 20,
+      "text": "釋放計數。",
+      "file": "c020.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 21,
+      "text": "在開放的意識中休息片刻。",
+      "file": "c021.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 22,
+      "text": "準備好後，睜開眼睛。",
+      "file": "c022.ogg",
+      "durationSec": 5.304
+    }
+  ]
+}

@@ -1,0 +1,454 @@
+{
+  "id": "progressive-release-10",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 344,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "這種練習使用溫和的緊張和放鬆。",
+      "file": "c001.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 2,
+      "text": "如果可以的話請躺下，或者在有支撐的情況下坐下。",
+      "file": "c002.ogg",
+      "durationSec": 8.232
+    },
+    {
+      "index": 3,
+      "text": "如果感覺安全，請閉上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 4,
+      "text": "沒什麼好強求的。保持在舒適的範圍內。",
+      "file": "c004.ogg",
+      "durationSec": 8.808
+    },
+    {
+      "index": 5,
+      "text": "緩慢吸氣。",
+      "file": "c005.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 6,
+      "text": "並且呼氣時間更長。",
+      "file": "c006.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 7,
+      "text": "[暫停：19]",
+      "file": "c007.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 8,
+      "text": "將注意力集中在雙腳上。",
+      "file": "c008.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 9,
+      "text": "捲曲腳趾並收緊腳部。",
+      "file": "c009.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 10,
+      "text": "抓住。",
+      "file": "c010.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 11,
+      "text": "[暫停：19]",
+      "file": "c011.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 12,
+      "text": "釋出。",
+      "file": "c012.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 13,
+      "text": "感受差異。",
+      "file": "c013.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 14,
+      "text": "[暫停：21]",
+      "file": "c014.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 15,
+      "text": "收緊小腿。",
+      "file": "c015.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 16,
+      "text": "抓住。",
+      "file": "c016.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 17,
+      "text": "[暫停：19]",
+      "file": "c017.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 18,
+      "text": "釋出。",
+      "file": "c018.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 19,
+      "text": "讓小腿變得沉重。",
+      "file": "c019.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 20,
+      "text": "[暫停：21]",
+      "file": "c020.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 21,
+      "text": "收緊大腿。",
+      "file": "c021.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 22,
+      "text": "抓住。",
+      "file": "c022.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 23,
+      "text": "[暫停：19]",
+      "file": "c023.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 24,
+      "text": "釋出。",
+      "file": "c024.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 25,
+      "text": "腿軟了柔軟的臀部。",
+      "file": "c025.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 26,
+      "text": "[暫停：21]",
+      "file": "c026.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 27,
+      "text": "輕輕地將腹部收攏。",
+      "file": "c027.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 28,
+      "text": "保持無壓力。",
+      "file": "c028.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 29,
+      "text": "[暫停：19]",
+      "file": "c029.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 30,
+      "text": "釋出。",
+      "file": "c030.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 31,
+      "text": "讓腹部隨著呼吸自由活動。",
+      "file": "c031.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 32,
+      "text": "[暫停：21]",
+      "file": "c032.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 33,
+      "text": "握起柔軟的拳頭。收緊雙手和前臂。",
+      "file": "c033.ogg",
+      "durationSec": 8.64
+    },
+    {
+      "index": 34,
+      "text": "抓住。",
+      "file": "c034.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 35,
+      "text": "[暫停：19]",
+      "file": "c035.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 36,
+      "text": "釋出。",
+      "file": "c036.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 37,
+      "text": "手指張開。手臂沉重。",
+      "file": "c037.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 38,
+      "text": "[暫停：21]",
+      "file": "c038.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 39,
+      "text": "將肩膀向耳朵方向聳起。",
+      "file": "c039.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 40,
+      "text": "抓住。",
+      "file": "c040.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 41,
+      "text": "[暫停：19]",
+      "file": "c041.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 42,
+      "text": "放下它們。",
+      "file": "c042.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 43,
+      "text": "感受上背部的空間。",
+      "file": "c043.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 44,
+      "text": "[暫停：21]",
+      "file": "c044.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 45,
+      "text": "輕輕揉捏臉部。眼睛、眉毛、下巴。",
+      "file": "c045.ogg",
+      "durationSec": 9.816
+    },
+    {
+      "index": 46,
+      "text": "抓住。",
+      "file": "c046.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 47,
+      "text": "[暫停：19]",
+      "file": "c047.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 48,
+      "text": "釋出。",
+      "file": "c048.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 49,
+      "text": "額頭光滑。下巴軟了舌頭休息。",
+      "file": "c049.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 50,
+      "text": "[暫停：23]",
+      "file": "c050.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 51,
+      "text": "現在輕輕地繃緊整個身體，就像一個整體。",
+      "file": "c051.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 52,
+      "text": "屏住呼吸。",
+      "file": "c052.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 53,
+      "text": "[暫停：35]",
+      "file": "c053.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 54,
+      "text": "讓一切都過去吧。",
+      "file": "c054.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 55,
+      "text": "[停頓：8]",
+      "file": "c055.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 56,
+      "text": "再次，更輕的全身擠壓。",
+      "file": "c056.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 57,
+      "text": "短暫保持。",
+      "file": "c057.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 58,
+      "text": "[停頓：5]",
+      "file": "c058.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 59,
+      "text": "並徹底釋放。",
+      "file": "c059.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 60,
+      "text": "現在更重了。現在更軟了。",
+      "file": "c060.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 61,
+      "text": "感覺身體融入你下方的表面。",
+      "file": "c061.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 62,
+      "text": "[暫停：39]",
+      "file": "c062.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 63,
+      "text": "在這裡休息。",
+      "file": "c063.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 64,
+      "text": "呼吸安靜。身體柔軟。",
+      "file": "c064.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 65,
+      "text": "如果思想回來了，那很好。",
+      "file": "c065.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 66,
+      "text": "回到釋放的感覺。",
+      "file": "c066.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 67,
+      "text": "[停頓：50]",
+      "file": "c067.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 68,
+      "text": "保持柔軟。",
+      "file": "c068.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 69,
+      "text": "[停頓：40]",
+      "file": "c069.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 70,
+      "text": "擺動手指和腳趾。",
+      "file": "c070.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 71,
+      "text": "再輕鬆地吸一口氣。",
+      "file": "c071.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 72,
+      "text": "準備好後，睜開眼睛。",
+      "file": "c072.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 73,
+      "text": "隨身攜帶這種柔軟。",
+      "file": "c073.ogg",
+      "durationSec": 4.752
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "body-scan",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 149,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "我們將輕輕地掃描身體。",
+      "file": "c000.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 1,
+      "text": "輕鬆地躺下或坐下。",
+      "file": "c001.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 2,
+      "text": "如果感覺安全，請閉上眼睛。",
+      "file": "c002.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 3,
+      "text": "從頭頂開始。",
+      "file": "c003.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 4,
+      "text": "注意那裡的任何感覺。溫暖。涼爽。什麼都沒有。",
+      "file": "c004.ogg",
+      "durationSec": 13.776
+    },
+    {
+      "index": 5,
+      "text": "不需要改變它。請注意。",
+      "file": "c005.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 6,
+      "text": "輕輕移至額頭和眼睛。",
+      "file": "c006.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 7,
+      "text": "讓眼睛周圍的微小肌肉變軟。",
+      "file": "c007.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 8,
+      "text": "感覺下巴。如果可以的話鬆開。",
+      "file": "c008.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 9,
+      "text": "舌頭輕輕地擱著。",
+      "file": "c009.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 10,
+      "text": "肩膀。他們被舉起來了嗎？讓他們下降一點。",
+      "file": "c010.ogg",
+      "durationSec": 10.728
+    },
+    {
+      "index": 11,
+      "text": "手臂沉重。雙手張開或柔軟。",
+      "file": "c011.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 12,
+      "text": "胸部隨著呼吸而起伏。",
+      "file": "c012.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 13,
+      "text": "肚子軟了。沒有強迫。",
+      "file": "c013.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 14,
+      "text": "臀部和骨盆休息。",
+      "file": "c014.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 15,
+      "text": "大腿。膝蓋。小腿。",
+      "file": "c015.ogg",
+      "durationSec": 8.952
+    },
+    {
+      "index": 16,
+      "text": "腳。鞋底接觸地板或墊子。",
+      "file": "c016.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 17,
+      "text": "現在將整個身體感覺為一個意識場。",
+      "file": "c017.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 18,
+      "text": "呼吸在其中流動。",
+      "file": "c018.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 19,
+      "text": "如果出現緊張的地方，請在那裡呼氣。",
+      "file": "c019.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 20,
+      "text": "保持三個安靜的呼吸。",
+      "file": "c020.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 21,
+      "text": "準備好後，扭動手指和腳趾。",
+      "file": "c021.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 22,
+      "text": "睜開你的眼睛。輕輕歸來。",
+      "file": "c022.ogg",
+      "durationSec": 7.248
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "anxiety-soft-landing",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 151,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "如果您感到活躍或擔心，歡迎您來到這裡。",
+      "file": "c000.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 1,
+      "text": "你還不需要感到平靜。",
+      "file": "c001.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 2,
+      "text": "跟著走吧。",
+      "file": "c002.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 3,
+      "text": "如果可以的話，將雙腳放在地板上。",
+      "file": "c003.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 4,
+      "text": "感受接觸。高跟鞋。腳掌。腳趾。",
+      "file": "c004.ogg",
+      "durationSec": 12.552
+    },
+    {
+      "index": 5,
+      "text": "輕輕按下。注意來自地面的推力。",
+      "file": "c005.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 6,
+      "text": "說出你能看到的五件事。",
+      "file": "c006.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 7,
+      "text": "靜靜地。不著急。",
+      "file": "c007.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 8,
+      "text": "說出四種你可以觸控的東西。",
+      "file": "c008.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 9,
+      "text": "衣服。椅子。皮膚上有空氣。",
+      "file": "c009.ogg",
+      "durationSec": 9.744
+    },
+    {
+      "index": 10,
+      "text": "說出三種聲音，近的或遠的。",
+      "file": "c010.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 11,
+      "text": "說出兩種氣味，或者只是注意空氣中的氣味。",
+      "file": "c011.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 12,
+      "text": "說出一種味道，或者嘴裡的感覺。",
+      "file": "c012.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 13,
+      "text": "你在這裡。在這個身體裡。在這個房間裡。",
+      "file": "c013.ogg",
+      "durationSec": 10.824
+    },
+    {
+      "index": 14,
+      "text": "現在吸氣四次。",
+      "file": "c014.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 15,
+      "text": "輕輕握住兩個人。",
+      "file": "c015.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 16,
+      "text": "六人出局。",
+      "file": "c016.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 17,
+      "text": "如果你願意的話再來一次。",
+      "file": "c017.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 18,
+      "text": "將手放在胸部或腹部。",
+      "file": "c018.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 19,
+      "text": "感受手下的運動。",
+      "file": "c019.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 20,
+      "text": "焦慮可能仍然存在。這是允許的。",
+      "file": "c020.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 21,
+      "text": "你讓神經系統軟著陸了。",
+      "file": "c021.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 22,
+      "text": "再吸一口氣。",
+      "file": "c022.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 23,
+      "text": "準備好後，睜開眼睛，繼續新的一天。",
+      "file": "c023.ogg",
+      "durationSec": 7.296
+    }
+  ]
+}

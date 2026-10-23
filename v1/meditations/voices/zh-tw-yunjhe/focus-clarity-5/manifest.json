@@ -1,0 +1,214 @@
+{
+  "id": "focus-clarity-5",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 166,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "找一個舒適的座位，或者如果感覺好一點的話就躺下來。",
+      "file": "c001.ogg",
+      "durationSec": 8.856
+    },
+    {
+      "index": 2,
+      "text": "讓雙手休息一下。",
+      "file": "c002.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 3,
+      "text": "軟化眼睛，或閉上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 4,
+      "text": "緩慢吸氣。",
+      "file": "c004.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 5,
+      "text": "並且呼氣時間更長。",
+      "file": "c005.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 6,
+      "text": "選擇一個錨點。鼻孔的呼吸，或者腹部的起伏。",
+      "file": "c006.ogg",
+      "durationSec": 10.224
+    },
+    {
+      "index": 7,
+      "text": "在那裡休息。",
+      "file": "c007.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 8,
+      "text": "[暫停：23]",
+      "file": "c008.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 9,
+      "text": "當心走神時，注意它去了哪裡。",
+      "file": "c009.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 10,
+      "text": "然後返回。親切地。乾淨利落。",
+      "file": "c010.ogg",
+      "durationSec": 9.984
+    },
+    {
+      "index": 11,
+      "text": "[暫停：29]",
+      "file": "c011.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 12,
+      "text": "迴歸就是訓練。",
+      "file": "c012.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 13,
+      "text": "吸入。停留。",
+      "file": "c013.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 14,
+      "text": "呼氣。停留。",
+      "file": "c014.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 15,
+      "text": "[暫停：34]",
+      "file": "c015.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 16,
+      "text": "如果有幫助，請將呼吸數到五次，然後重新開始。",
+      "file": "c016.ogg",
+      "durationSec": 8.88
+    },
+    {
+      "index": 17,
+      "text": "一。",
+      "file": "c017.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 18,
+      "text": "[暫停：17]",
+      "file": "c018.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 19,
+      "text": "二。",
+      "file": "c019.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 20,
+      "text": "[暫停：17]",
+      "file": "c020.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 21,
+      "text": "三。",
+      "file": "c021.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 22,
+      "text": "[暫停：17]",
+      "file": "c022.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 23,
+      "text": "四。",
+      "file": "c023.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 24,
+      "text": "[暫停：17]",
+      "file": "c024.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 25,
+      "text": "五。",
+      "file": "c025.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 26,
+      "text": "[暫停：23]",
+      "file": "c026.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 27,
+      "text": "釋放計數。",
+      "file": "c027.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 28,
+      "text": "暫時保持清醒、開放的注意力。",
+      "file": "c028.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 29,
+      "text": "[暫停：34]",
+      "file": "c029.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 30,
+      "text": "再輕鬆地吸一口氣。",
+      "file": "c030.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 31,
+      "text": "動動手指。",
+      "file": "c031.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 32,
+      "text": "準備好後，睜開眼睛。",
+      "file": "c032.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 33,
+      "text": "隨身攜帶一點這個。",
+      "file": "c033.ogg",
+      "durationSec": 4.56
+    }
+  ]
+}

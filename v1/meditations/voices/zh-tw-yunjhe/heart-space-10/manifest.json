@@ -1,0 +1,250 @@
+{
+  "id": "heart-space-10",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 190,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "需要時間到達。",
+      "file": "c001.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 2,
+      "text": "在支撐下坐下或躺下。",
+      "file": "c002.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 3,
+      "text": "如果感覺安全，請閉上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 4,
+      "text": "感受與地面的接觸。",
+      "file": "c004.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 5,
+      "text": "緩慢吸氣。",
+      "file": "c005.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 6,
+      "text": "呼氣時間更長。",
+      "file": "c006.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 7,
+      "text": "[暫停：25]",
+      "file": "c007.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 8,
+      "text": "再次。",
+      "file": "c008.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 9,
+      "text": "[暫停：25]",
+      "file": "c009.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 10,
+      "text": "讓肩膀下垂。",
+      "file": "c010.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 11,
+      "text": "讓腹部變軟。",
+      "file": "c011.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 12,
+      "text": "[暫停：31]",
+      "file": "c012.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 13,
+      "text": "將注意力集中在胸部中央。",
+      "file": "c013.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 14,
+      "text": "不強求感覺。只要找到空間就可以了。",
+      "file": "c014.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 15,
+      "text": "[暫停：31]",
+      "file": "c015.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 16,
+      "text": "呼吸就像吸氣進入心臟一樣。",
+      "file": "c016.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 17,
+      "text": "彷彿呼氣從裡面軟化了心臟。",
+      "file": "c017.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 18,
+      "text": "[暫停：37]",
+      "file": "c018.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 19,
+      "text": "如果情緒出現，讓它像天氣一樣移動。",
+      "file": "c019.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 20,
+      "text": "[暫停：37]",
+      "file": "c020.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 21,
+      "text": "默默：願我心安。",
+      "file": "c021.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 22,
+      "text": "[暫停：31]",
+      "file": "c022.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 23,
+      "text": "我可以對自己的時間安排有耐心嗎？",
+      "file": "c023.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 24,
+      "text": "[暫停：31]",
+      "file": "c024.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 25,
+      "text": "想起一個容易關心的人。",
+      "file": "c025.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 26,
+      "text": "祝他們輕鬆。",
+      "file": "c026.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 27,
+      "text": "願你安心。",
+      "file": "c027.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 28,
+      "text": "[暫停：37]",
+      "file": "c028.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 29,
+      "text": "回到自己的心靈空間。",
+      "file": "c029.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 30,
+      "text": "溫暖的。寬敞。人類。",
+      "file": "c030.ogg",
+      "durationSec": 8.88
+    },
+    {
+      "index": 31,
+      "text": "[暫停：75]",
+      "file": "c031.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 32,
+      "text": "在這裡休息。",
+      "file": "c032.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 33,
+      "text": "[暫停：90]",
+      "file": "c033.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 34,
+      "text": "[暫停：37]",
+      "file": "c034.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 35,
+      "text": "開始加深呼吸。",
+      "file": "c035.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 36,
+      "text": "再次感受一下房間。",
+      "file": "c036.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 37,
+      "text": "擺動手指和腳趾。",
+      "file": "c037.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 38,
+      "text": "準備好後，睜開眼睛。",
+      "file": "c038.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 39,
+      "text": "慢慢地進入接下來的事情。",
+      "file": "c039.ogg",
+      "durationSec": 5.04
+    }
+  ]
+}

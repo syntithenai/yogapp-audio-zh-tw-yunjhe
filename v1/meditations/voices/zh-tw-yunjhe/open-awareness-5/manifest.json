@@ -1,0 +1,172 @@
+{
+  "id": "open-awareness-5",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 141,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "找一個舒適的座位，或者如果感覺好一點的話就躺下來。",
+      "file": "c001.ogg",
+      "durationSec": 8.856
+    },
+    {
+      "index": 2,
+      "text": "讓雙手休息一下。",
+      "file": "c002.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 3,
+      "text": "軟化眼睛，或閉上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 4,
+      "text": "緩慢吸氣。",
+      "file": "c004.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 5,
+      "text": "並且呼氣時間更長。",
+      "file": "c005.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 6,
+      "text": "從呼吸開始幾個週期。",
+      "file": "c006.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 7,
+      "text": "[暫停：28]",
+      "file": "c007.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 8,
+      "text": "現在放寬。包括聲音。",
+      "file": "c008.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 9,
+      "text": "靠近。遠的。改變。穩定的。",
+      "file": "c009.ogg",
+      "durationSec": 11.808
+    },
+    {
+      "index": 10,
+      "text": "[暫停：28]",
+      "file": "c010.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 11,
+      "text": "包括身體的感覺。",
+      "file": "c011.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 12,
+      "text": "聯絡點。溫度。脈搏柔和。",
+      "file": "c012.ogg",
+      "durationSec": 9.456
+    },
+    {
+      "index": 13,
+      "text": "[暫停：28]",
+      "file": "c013.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 14,
+      "text": "包括房間的空間。",
+      "file": "c014.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 15,
+      "text": "覺知如開闊的天空。",
+      "file": "c015.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 16,
+      "text": "[暫停：34]",
+      "file": "c016.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 17,
+      "text": "想法可能看起來像天氣。",
+      "file": "c017.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 18,
+      "text": "無需追趕或推動他們。",
+      "file": "c018.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 19,
+      "text": "天空依然存在。",
+      "file": "c019.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 20,
+      "text": "[暫停：45]",
+      "file": "c020.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 21,
+      "text": "在這片空曠的田野裡休息。",
+      "file": "c021.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 22,
+      "text": "[暫停：45]",
+      "file": "c022.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 23,
+      "text": "再輕鬆地吸一口氣。",
+      "file": "c023.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 24,
+      "text": "動動手指。",
+      "file": "c024.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 25,
+      "text": "準備好後，睜開眼睛。",
+      "file": "c025.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 26,
+      "text": "隨身攜帶一點這個。",
+      "file": "c026.ogg",
+      "durationSec": 4.56
+    }
+  ]
+}

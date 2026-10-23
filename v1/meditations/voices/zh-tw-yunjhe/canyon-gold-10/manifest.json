@@ -1,0 +1,622 @@
+{
+  "id": "canyon-gold-10",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 634,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "找到一種對你沒有任何要求的姿勢。",
+      "file": "c001.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 2,
+      "text": "坐下或躺下，根據需要提供任何支撐。",
+      "file": "c002.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 3,
+      "text": "讓雙手張開或柔軟。",
+      "file": "c003.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 4,
+      "text": "讓你的眼睛閉上，或者保持柔和的凝視。",
+      "file": "c004.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 5,
+      "text": "感受身體與地面接觸的地方。",
+      "file": "c005.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 6,
+      "text": "腳跟、坐骨、後腦勺或脊柱的長度。",
+      "file": "c006.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 7,
+      "text": "現在沒什麼可以堅持的。",
+      "file": "c007.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 8,
+      "text": "透過鼻子緩慢吸氣。",
+      "file": "c008.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 9,
+      "text": "感受空氣的涼爽到來。",
+      "file": "c009.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 10,
+      "text": "並且呼氣時間長一點。",
+      "file": "c010.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 11,
+      "text": "感受呼氣離開的溫暖。",
+      "file": "c011.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 12,
+      "text": "再次。輕輕吸氣。",
+      "file": "c012.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 13,
+      "text": "不緊不慢地呼氣。",
+      "file": "c013.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 14,
+      "text": "讓肩膀下降一點。",
+      "file": "c014.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 15,
+      "text": "讓下巴鬆開。",
+      "file": "c015.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 16,
+      "text": "讓肚子變軟。",
+      "file": "c016.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 17,
+      "text": "保持三個安靜的呼吸，就像它們本來的樣子一樣。",
+      "file": "c017.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 18,
+      "text": "吸氣。到達。",
+      "file": "c018.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 19,
+      "text": "呼氣。定居。",
+      "file": "c019.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 20,
+      "text": "如果心走神，請善意地注意它，然後回到呼吸上。",
+      "file": "c020.ogg",
+      "durationSec": 8.448
+    },
+    {
+      "index": 21,
+      "text": "想象一下，一條寬闊的峽谷被塗成了淡金色和玫瑰色。",
+      "file": "c021.ogg",
+      "durationSec": 9.12
+    },
+    {
+      "index": 22,
+      "text": "現在是下午晚些時候。光線很慷慨。",
+      "file": "c022.ogg",
+      "durationSec": 8.4
+    },
+    {
+      "index": 23,
+      "text": "一整天都沐浴在陽光下的石頭散發著溫暖。",
+      "file": "c023.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 24,
+      "text": "感受小腿和手背上的輻射熱。",
+      "file": "c024.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 25,
+      "text": "乾燥清新的微風沿著峽谷底部吹過。",
+      "file": "c025.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 26,
+      "text": "它可以讓你的臉涼爽，但又不會失去溫暖的舒適感。",
+      "file": "c026.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 27,
+      "text": "你走在安靜的牆壁之間的沙路上。",
+      "file": "c027.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 28,
+      "text": "腳步聲低語。回聲很柔和，幾乎是禮貌的。",
+      "file": "c028.ogg",
+      "durationSec": 9.312
+    },
+    {
+      "index": 29,
+      "text": "聞到陽光烘烤過的泥土、鼠尾草和乾淨灰塵的味道。",
+      "file": "c029.ogg",
+      "durationSec": 8.568
+    },
+    {
+      "index": 30,
+      "text": "將手掌放在光滑的石頭上。",
+      "file": "c030.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 31,
+      "text": "感受那裡儲存的日光——穩定、耐心的熱量。",
+      "file": "c031.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 32,
+      "text": "一條遮陽帶為幾步帶來涼爽。",
+      "file": "c032.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 33,
+      "text": "然後陽光再次照在你的肩膀上，像披肩一樣溫暖。",
+      "file": "c033.ogg",
+      "durationSec": 8.472
+    },
+    {
+      "index": 34,
+      "text": "你來到了一個峽谷開口的地方。",
+      "file": "c034.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 35,
+      "text": "坐在一塊平坦的岩石上，仍然保持著金色的溫暖。",
+      "file": "c035.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 36,
+      "text": "感覺它透過你的座位和脊柱上升。",
+      "file": "c036.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 37,
+      "text": "每次吸氣都能感受到高原上更新鮮的空氣。",
+      "file": "c037.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 38,
+      "text": "遠方的上方，一隻鷹緩慢地盤旋，不慌不忙。",
+      "file": "c038.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 39,
+      "text": "你借用了那種從容不迫的品質。",
+      "file": "c039.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 40,
+      "text": "呼吸長長。身體沉重。心胸寬闊，如牆縫間的天空。",
+      "file": "c040.ogg",
+      "durationSec": 13.08
+    },
+    {
+      "index": 41,
+      "text": "當太陽落山時，看著影子爬上遠處的懸崖。",
+      "file": "c041.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 42,
+      "text": "顏色加深。溫暖會減弱，但不會消失。",
+      "file": "c042.ogg",
+      "durationSec": 8.856
+    },
+    {
+      "index": 43,
+      "text": "微風現在聞起來涼爽一些，帶著傍晚的清新氣息。",
+      "file": "c043.ogg",
+      "durationSec": 8.28
+    },
+    {
+      "index": 44,
+      "text": "用雙臂抱住自己一會兒。",
+      "file": "c044.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 45,
+      "text": "自己身體的溫暖。石頭的溫暖。足夠的。",
+      "file": "c045.ogg",
+      "durationSec": 10.8
+    },
+    {
+      "index": 46,
+      "text": "小心地躺下來，看著第一顆安靜的星星。",
+      "file": "c046.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 47,
+      "text": "峽谷託著你，就像杯狀的手託著水一樣——輕輕地，不會溢位。",
+      "file": "c047.ogg",
+      "durationSec": 9.984
+    },
+    {
+      "index": 48,
+      "text": "安息在那種被控制的感覺中。",
+      "file": "c048.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 49,
+      "text": "注意最後的熱量從岩石上升到冷卻空氣中。",
+      "file": "c049.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 50,
+      "text": "請注意，微風現在充滿了傍晚、灰塵和鼠尾草的味道。",
+      "file": "c050.ogg",
+      "durationSec": 9.336
+    },
+    {
+      "index": 51,
+      "text": "你的呼吸放慢了，以適應周圍的安靜。",
+      "file": "c051.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 52,
+      "text": "如果眉毛仍然緊張，請用金色的光芒將其軟化。",
+      "file": "c052.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 53,
+      "text": "如果鷹的下巴很緊，那麼當鷹輕鬆轉動時，讓它放鬆。",
+      "file": "c053.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 54,
+      "text": "多呆幾次溫暖的石頭和新鮮的空氣。",
+      "file": "c054.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 55,
+      "text": "你沒有遲到。你在這裡。",
+      "file": "c055.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 56,
+      "text": "沿著峽谷壁之間溫暖的沙子再走幾步。",
+      "file": "c056.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 57,
+      "text": "你的影子拉得很長，無憂無慮。",
+      "file": "c057.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 58,
+      "text": "再次將雙手掌放在石頭上。",
+      "file": "c058.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 59,
+      "text": "熱量進入手中就像一種你不需要贏得的祝福。",
+      "file": "c059.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 60,
+      "text": "微風吹過你的頭髮，帶來涼爽。",
+      "file": "c060.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 61,
+      "text": "鼠尾草香氣。塵埃氣味。陽光的氣味。",
+      "file": "c061.ogg",
+      "durationSec": 10.752
+    },
+    {
+      "index": 62,
+      "text": "坐下。膝蓋軟了。脊椎輕鬆。",
+      "file": "c062.ogg",
+      "durationSec": 9.336
+    },
+    {
+      "index": 63,
+      "text": "手錶顏色從金色加深到玫瑰色。",
+      "file": "c063.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 64,
+      "text": "溫暖變得柔和。新鮮度增加。平衡依然存在。",
+      "file": "c064.ogg",
+      "durationSec": 11.808
+    },
+    {
+      "index": 65,
+      "text": "這就是晚上教神經系統降檔的方式。",
+      "file": "c065.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 66,
+      "text": "毫不費力地借用教訓。",
+      "file": "c066.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 67,
+      "text": "石頭的三個呼吸。",
+      "file": "c067.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 68,
+      "text": "三為天。",
+      "file": "c068.ogg",
+      "durationSec": 3.24
+    },
+    {
+      "index": 69,
+      "text": "三是為了你自己身體裡安靜的動物，休息。",
+      "file": "c069.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 70,
+      "text": "現在讓故事休息一下，繼續感受吧。",
+      "file": "c070.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 71,
+      "text": "呼吸這個地方的新鮮感。",
+      "file": "c071.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 72,
+      "text": "呼氣，感受它的溫暖和安靜。",
+      "file": "c072.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 73,
+      "text": "吸氣。",
+      "file": "c073.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 74,
+      "text": "呼氣。",
+      "file": "c074.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 75,
+      "text": "再次。輕輕吸氣。",
+      "file": "c075.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 76,
+      "text": "長長地呼氣。",
+      "file": "c076.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 77,
+      "text": "感受這個想象世界的地面所支撐的身體。",
+      "file": "c077.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 78,
+      "text": "吸氣。",
+      "file": "c078.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 79,
+      "text": "呼氣。",
+      "file": "c079.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 80,
+      "text": "如果思緒遊離，請回到皮膚上的溫暖。",
+      "file": "c080.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 81,
+      "text": "或者冷卻鼻子裡的空氣。",
+      "file": "c081.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 82,
+      "text": "吸氣。",
+      "file": "c082.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 83,
+      "text": "呼氣。",
+      "file": "c083.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 84,
+      "text": "吸氣。",
+      "file": "c084.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 85,
+      "text": "呼氣。",
+      "file": "c085.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 86,
+      "text": "留下來。軟化。繼續。",
+      "file": "c086.ogg",
+      "durationSec": 9.216
+    },
+    {
+      "index": 87,
+      "text": "吸氣。",
+      "file": "c087.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 88,
+      "text": "呼氣。",
+      "file": "c088.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 89,
+      "text": "又一個簡單的迴圈。",
+      "file": "c089.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 90,
+      "text": "吸氣。",
+      "file": "c090.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 91,
+      "text": "呼氣。",
+      "file": "c091.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 92,
+      "text": "在這種感覺中再停留幾個呼吸。",
+      "file": "c092.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 93,
+      "text": "溫暖。柔軟度。足夠了。",
+      "file": "c093.ogg",
+      "durationSec": 8.976
+    },
+    {
+      "index": 94,
+      "text": "當你需要的時候你可以回到這個地方。",
+      "file": "c094.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 95,
+      "text": "它存在於你的注意力中，而不僅僅是想象中。",
+      "file": "c095.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 96,
+      "text": "開始加深呼吸。",
+      "file": "c096.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 97,
+      "text": "再次感受你周圍的房間。",
+      "file": "c097.ogg",
+      "durationSec": 4.968
+    },
+    {
+      "index": 98,
+      "text": "動動手指。軟化腳趾。",
+      "file": "c098.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 99,
+      "text": "準備好後，睜開眼睛。",
+      "file": "c099.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 100,
+      "text": "再輕鬆地吸一口氣。",
+      "file": "c100.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 101,
+      "text": "將這種平靜帶入接下來發生的一切。",
+      "file": "c101.ogg",
+      "durationSec": 6.216
+    }
+  ]
+}
