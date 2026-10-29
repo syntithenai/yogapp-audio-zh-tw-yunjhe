@@ -1,0 +1,166 @@
+{
+  "id": "senses-grounding-5",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 148,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "如果您感到分散或活躍，這種練習會有所幫助。",
+      "file": "c001.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 2,
+      "text": "如果感覺更安全的話，現在請睜大眼睛。",
+      "file": "c002.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 3,
+      "text": "將雙腳放在地板上。",
+      "file": "c003.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 4,
+      "text": "[暫停：17]",
+      "file": "c004.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 5,
+      "text": "說出你能看到的五件事。",
+      "file": "c005.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 6,
+      "text": "悄悄。慢慢來。",
+      "file": "c006.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 7,
+      "text": "[暫停：45]",
+      "file": "c007.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 8,
+      "text": "說出四種你能感覺到或觸控到的東西。",
+      "file": "c008.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 9,
+      "text": "衣服。椅子。皮膚上有空氣。腳放在地板上。",
+      "file": "c009.ogg",
+      "durationSec": 13.704
+    },
+    {
+      "index": 10,
+      "text": "[暫停：39]",
+      "file": "c010.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 11,
+      "text": "說出三個聲音。",
+      "file": "c011.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 12,
+      "text": "近或遠。柔和或清澈。",
+      "file": "c012.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 13,
+      "text": "[暫停：39]",
+      "file": "c013.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 14,
+      "text": "說出兩種氣味，或者只是注意空氣質量。",
+      "file": "c014.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 15,
+      "text": "[暫停：28]",
+      "file": "c015.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 16,
+      "text": "說出一種味道，或者口腔內的感覺。",
+      "file": "c016.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 17,
+      "text": "[暫停：23]",
+      "file": "c017.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 18,
+      "text": "你在這裡。在這個身體裡。在這個房間裡。",
+      "file": "c018.ogg",
+      "durationSec": 10.824
+    },
+    {
+      "index": 19,
+      "text": "吸氣四次。",
+      "file": "c019.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 20,
+      "text": "六人出局。",
+      "file": "c020.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 21,
+      "text": "[暫停：23]",
+      "file": "c021.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 22,
+      "text": "再輕鬆地吸一口氣。",
+      "file": "c022.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 23,
+      "text": "動動手指。",
+      "file": "c023.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 24,
+      "text": "準備好後，睜開眼睛。",
+      "file": "c024.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 25,
+      "text": "隨身攜帶一點這個。",
+      "file": "c025.ogg",
+      "durationSec": 4.56
+    }
+  ]
+}

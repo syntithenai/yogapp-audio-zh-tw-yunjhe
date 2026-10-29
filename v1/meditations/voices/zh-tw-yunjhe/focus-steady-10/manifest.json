@@ -1,0 +1,274 @@
+{
+  "id": "focus-steady-10",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 192,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "需要時間到達。",
+      "file": "c001.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 2,
+      "text": "在支撐下坐下或躺下。",
+      "file": "c002.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 3,
+      "text": "如果感覺安全，請閉上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 4,
+      "text": "感受與地面的接觸。",
+      "file": "c004.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 5,
+      "text": "緩慢吸氣。",
+      "file": "c005.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 6,
+      "text": "呼氣時間更長。",
+      "file": "c006.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 7,
+      "text": "[暫停：21]",
+      "file": "c007.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 8,
+      "text": "再次。",
+      "file": "c008.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 9,
+      "text": "[暫停：21]",
+      "file": "c009.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 10,
+      "text": "讓肩膀下垂。",
+      "file": "c010.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 11,
+      "text": "讓腹部變軟。",
+      "file": "c011.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 12,
+      "text": "[暫停：26]",
+      "file": "c012.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 13,
+      "text": "選擇鼻孔的呼吸作為你的重點。",
+      "file": "c013.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 14,
+      "text": "保持空氣的感覺。",
+      "file": "c014.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 15,
+      "text": "[暫停：26]",
+      "file": "c015.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 16,
+      "text": "每次呼氣時從一數到十。",
+      "file": "c016.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 17,
+      "text": "如果你數錯了，請從一開始，不要責怪。",
+      "file": "c017.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 18,
+      "text": "[暫停：21]",
+      "file": "c018.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 19,
+      "text": "一。",
+      "file": "c019.ogg",
+      "durationSec": 2.592
+    },
+    {
+      "index": 20,
+      "text": "[暫停：21]",
+      "file": "c020.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 21,
+      "text": "二。",
+      "file": "c021.ogg",
+      "durationSec": 2.688
+    },
+    {
+      "index": 22,
+      "text": "[暫停：21]",
+      "file": "c022.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 23,
+      "text": "三。",
+      "file": "c023.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 24,
+      "text": "[暫停：21]",
+      "file": "c024.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 25,
+      "text": "四。",
+      "file": "c025.ogg",
+      "durationSec": 2.832
+    },
+    {
+      "index": 26,
+      "text": "[暫停：21]",
+      "file": "c026.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 27,
+      "text": "五。",
+      "file": "c027.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 28,
+      "text": "[暫停：21]",
+      "file": "c028.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 29,
+      "text": "默默地繼續到十，然後從一開始。",
+      "file": "c029.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 30,
+      "text": "[暫停：90]",
+      "file": "c030.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 31,
+      "text": "釋放計數。",
+      "file": "c031.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 32,
+      "text": "將注意力集中在呼吸上。",
+      "file": "c032.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 33,
+      "text": "[暫停：79]",
+      "file": "c033.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 34,
+      "text": "清澈無硬度。",
+      "file": "c034.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 35,
+      "text": "[暫停：42]",
+      "file": "c035.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 36,
+      "text": "[暫停：32]",
+      "file": "c036.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 37,
+      "text": "開始加深呼吸。",
+      "file": "c037.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 38,
+      "text": "在這裡休息。",
+      "file": "c038.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 39,
+      "text": "[暫停：44]",
+      "file": "c039.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 40,
+      "text": "再次感受一下房間。",
+      "file": "c040.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 41,
+      "text": "擺動手指和腳趾。",
+      "file": "c041.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 42,
+      "text": "準備好後，睜開眼睛。",
+      "file": "c042.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 43,
+      "text": "慢慢地進入接下來的事情。",
+      "file": "c043.ogg",
+      "durationSec": 5.04
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "rain-window-5",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 131,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "找一個舒適的座位，或者如果感覺好一點的話就躺下來。",
+      "file": "c001.ogg",
+      "durationSec": 8.856
+    },
+    {
+      "index": 2,
+      "text": "讓雙手休息一下。",
+      "file": "c002.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 3,
+      "text": "軟化眼睛，或閉上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 4,
+      "text": "緩慢吸氣。",
+      "file": "c004.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 5,
+      "text": "並且呼氣時間更長。",
+      "file": "c005.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 6,
+      "text": "想象一下在一個安靜的雨天坐在窗邊。",
+      "file": "c006.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 7,
+      "text": "玻璃涼了外面的世界柔軟。",
+      "file": "c007.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 8,
+      "text": "[停頓：30]",
+      "file": "c008.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 9,
+      "text": "無需故事，就能聽雨聲。",
+      "file": "c009.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 10,
+      "text": "小水龍頭。偶爾會摔倒較重。",
+      "file": "c010.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 11,
+      "text": "[暫停：36]",
+      "file": "c011.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 12,
+      "text": "聞到乾淨潮溼的空氣。",
+      "file": "c012.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 13,
+      "text": "見灰色的光芒，溫柔而從容。",
+      "file": "c013.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 14,
+      "text": "[停頓：30]",
+      "file": "c014.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 15,
+      "text": "雨天無處可去。",
+      "file": "c015.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 16,
+      "text": "允許暫停。",
+      "file": "c016.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 17,
+      "text": "[暫停：36]",
+      "file": "c017.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 18,
+      "text": "隨著水在玻璃上的節奏呼吸。",
+      "file": "c018.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 19,
+      "text": "[暫停：45]",
+      "file": "c019.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 20,
+      "text": "讓神經系統接受提示：軟化。",
+      "file": "c020.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 21,
+      "text": "[暫停：36]",
+      "file": "c021.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 22,
+      "text": "再輕鬆地吸一口氣。",
+      "file": "c022.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 23,
+      "text": "動動手指。",
+      "file": "c023.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 24,
+      "text": "準備好後，睜開眼睛。",
+      "file": "c024.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 25,
+      "text": "隨身攜帶一點這個。",
+      "file": "c025.ogg",
+      "durationSec": 4.56
+    }
+  ]
+}

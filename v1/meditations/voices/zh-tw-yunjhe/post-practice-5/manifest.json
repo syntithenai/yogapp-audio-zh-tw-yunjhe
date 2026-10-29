@@ -1,0 +1,142 @@
+{
+  "id": "post-practice-5",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 103,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "你已經練習過了。現在讓身體接收它。",
+      "file": "c001.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 2,
+      "text": "輕鬆地躺下或坐下。",
+      "file": "c002.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 3,
+      "text": "瞑。",
+      "file": "c003.ogg",
+      "durationSec": 2.856
+    },
+    {
+      "index": 4,
+      "text": "[暫停：31]",
+      "file": "c004.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 5,
+      "text": "掃描是否有溫暖、振動或安靜的疲勞。",
+      "file": "c005.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 6,
+      "text": "沒有分級。請注意。",
+      "file": "c006.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 7,
+      "text": "[暫停：45]",
+      "file": "c007.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 8,
+      "text": "長長呼氣。",
+      "file": "c008.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 9,
+      "text": "再次。",
+      "file": "c009.ogg",
+      "durationSec": 3.096
+    },
+    {
+      "index": 10,
+      "text": "[暫停：38]",
+      "file": "c010.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 11,
+      "text": "感謝身體的出現。",
+      "file": "c011.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 12,
+      "text": "[暫停：31]",
+      "file": "c012.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 13,
+      "text": "讓精力流失到地板上。",
+      "file": "c013.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 14,
+      "text": "[暫停：45]",
+      "file": "c014.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 15,
+      "text": "清清地吸了一口氣。",
+      "file": "c015.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 16,
+      "text": "一口氣呼完。",
+      "file": "c016.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 17,
+      "text": "[暫停：38]",
+      "file": "c017.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 18,
+      "text": "再輕鬆地吸一口氣。",
+      "file": "c018.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 19,
+      "text": "動動手指。",
+      "file": "c019.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 20,
+      "text": "準備好後，睜開眼睛。",
+      "file": "c020.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 21,
+      "text": "隨身攜帶一點這個。",
+      "file": "c021.ogg",
+      "durationSec": 4.56
+    }
+  ]
+}

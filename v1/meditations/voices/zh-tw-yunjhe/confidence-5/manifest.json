@@ -1,0 +1,190 @@
+{
+  "id": "confidence-5",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 154,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "找一個舒適的座位，或者如果感覺好一點的話就躺下來。",
+      "file": "c001.ogg",
+      "durationSec": 8.856
+    },
+    {
+      "index": 2,
+      "text": "讓雙手休息一下。",
+      "file": "c002.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 3,
+      "text": "軟化眼睛，或閉上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 4,
+      "text": "緩慢吸氣。",
+      "file": "c004.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 5,
+      "text": "並且呼氣時間更長。",
+      "file": "c005.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 6,
+      "text": "感覺坐骨或腳。",
+      "file": "c006.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 7,
+      "text": "你腳下有一個穩定的基礎。",
+      "file": "c007.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 8,
+      "text": "[暫停：22]",
+      "file": "c008.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 9,
+      "text": "延長脊柱而不硬化。",
+      "file": "c009.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 10,
+      "text": "臉軟軟的。軟軟的肚子。中鋒強。",
+      "file": "c010.ogg",
+      "durationSec": 10.056
+    },
+    {
+      "index": 11,
+      "text": "[暫停：22]",
+      "file": "c011.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 12,
+      "text": "默默地嘗試這些短語，或者只是聽。",
+      "file": "c012.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 13,
+      "text": "我能遇見我該遇見的。",
+      "file": "c013.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 14,
+      "text": "[暫停：22]",
+      "file": "c014.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 15,
+      "text": "我不需要急於成為我的人。",
+      "file": "c015.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 16,
+      "text": "[暫停：22]",
+      "file": "c016.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 17,
+      "text": "我相信我的下一步是誠實的。",
+      "file": "c017.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 18,
+      "text": "[暫停：28]",
+      "file": "c018.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 19,
+      "text": "呼吸自信，就像胸中的溫暖，而不是盔甲。",
+      "file": "c019.ogg",
+      "durationSec": 7.944
+    },
+    {
+      "index": 20,
+      "text": "[暫停：28]",
+      "file": "c020.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 21,
+      "text": "想象自己能夠穩定地應對一項普通的挑戰。",
+      "file": "c021.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 22,
+      "text": "[暫停：33]",
+      "file": "c022.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 23,
+      "text": "回到呼吸。",
+      "file": "c023.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 24,
+      "text": "穩定的。足夠的。",
+      "file": "c024.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 25,
+      "text": "[暫停：28]",
+      "file": "c025.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 26,
+      "text": "再輕鬆地吸一口氣。",
+      "file": "c026.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 27,
+      "text": "動動手指。",
+      "file": "c027.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 28,
+      "text": "準備好後，睜開眼睛。",
+      "file": "c028.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 29,
+      "text": "隨身攜帶一點這個。",
+      "file": "c029.ogg",
+      "durationSec": 4.56
+    }
+  ]
+}

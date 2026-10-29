@@ -1,0 +1,154 @@
+{
+  "id": "evening-wind-down",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 140,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "這個練習是為了一天結束時的練習。",
+      "file": "c000.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 1,
+      "text": "如果可以的話，把燈調暗。",
+      "file": "c001.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 2,
+      "text": "在支撐下躺下或傾斜。",
+      "file": "c002.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 3,
+      "text": "讓這一天結束吧，即使頭腦中仍然列出任務。",
+      "file": "c003.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 4,
+      "text": "您現在可以將它們放下。",
+      "file": "c004.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 5,
+      "text": "輕輕吸氣，數到四。",
+      "file": "c005.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 6,
+      "text": "呼氣數到六。",
+      "file": "c006.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 7,
+      "text": "再次。四進六出。",
+      "file": "c007.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 8,
+      "text": "較長的呼氣告訴身體可以安全休息了。",
+      "file": "c008.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 9,
+      "text": "掃描面部殘留的張力。",
+      "file": "c009.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 10,
+      "text": "軟化眉毛。軟化下巴。",
+      "file": "c010.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 11,
+      "text": "讓肩膀遠離耳朵。",
+      "file": "c011.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 12,
+      "text": "想象一下這一天像微風過後的塵埃一樣沉寂下來。",
+      "file": "c012.ogg",
+      "durationSec": 7.992
+    },
+    {
+      "index": 13,
+      "text": "發生了什麼，發生了。",
+      "file": "c013.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 14,
+      "text": "剩下的可以等到早上。",
+      "file": "c014.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 15,
+      "text": "感覺床墊或地板支撐著你。",
+      "file": "c015.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 16,
+      "text": "呼吸更平靜。身體更重了。",
+      "file": "c016.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 17,
+      "text": "如果睡眠來了，就讓它吧。",
+      "file": "c017.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 18,
+      "text": "如果沒有，無論如何，請在這種柔軟中休息。",
+      "file": "c018.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 19,
+      "text": "又是三聲緩慢的呼吸。",
+      "file": "c019.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 20,
+      "text": "在。出去。",
+      "file": "c020.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 21,
+      "text": "在。出去。",
+      "file": "c021.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 22,
+      "text": "在。出去。",
+      "file": "c022.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 23,
+      "text": "祝這一天晚安。平安夜。",
+      "file": "c023.ogg",
+      "durationSec": 6.84
+    }
+  ]
+}

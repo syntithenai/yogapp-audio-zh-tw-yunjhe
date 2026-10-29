@@ -1,0 +1,148 @@
+{
+  "id": "sleep-gate-5",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 109,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "這種做法是為了睡覺的邊緣。",
+      "file": "c000.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 1,
+      "text": "把燈光調暗。躺。",
+      "file": "c001.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 2,
+      "text": "此刻沒有什麼事情需要完成。",
+      "file": "c002.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 3,
+      "text": "[暫停：24]",
+      "file": "c003.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 4,
+      "text": "輕輕吸氣。",
+      "file": "c004.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 5,
+      "text": "呼氣時間長一些。",
+      "file": "c005.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 6,
+      "text": "[暫停：24]",
+      "file": "c006.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 7,
+      "text": "鬆開額頭。",
+      "file": "c007.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 8,
+      "text": "鬆開眼睛。",
+      "file": "c008.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 9,
+      "text": "鬆開下巴。",
+      "file": "c009.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 10,
+      "text": "[暫停：29]",
+      "file": "c010.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 11,
+      "text": "沉重的手臂。腿重。",
+      "file": "c011.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 12,
+      "text": "[暫停：29]",
+      "file": "c012.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 13,
+      "text": "如果思緒來訪，就讓它們像夜車一樣飄過。",
+      "file": "c013.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 14,
+      "text": "你與呼吸保持一致。",
+      "file": "c014.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 15,
+      "text": "[暫停：45]",
+      "file": "c015.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 16,
+      "text": "身體下沉。",
+      "file": "c016.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 17,
+      "text": "呼吸安靜。",
+      "file": "c017.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 18,
+      "text": "[暫停：45]",
+      "file": "c018.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 19,
+      "text": "如果睡眠來了，就讓它吧。",
+      "file": "c019.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 20,
+      "text": "如果沒有的話，還是休息吧。",
+      "file": "c020.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 21,
+      "text": "[暫停：35]",
+      "file": "c021.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 22,
+      "text": "祝這一天晚安。",
+      "file": "c022.ogg",
+      "durationSec": 3.72
+    }
+  ]
+}

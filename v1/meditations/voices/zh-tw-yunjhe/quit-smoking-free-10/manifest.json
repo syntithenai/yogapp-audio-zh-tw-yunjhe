@@ -1,0 +1,352 @@
+{
+  "id": "quit-smoking-free-10",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 296,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "這個練習是為你作為非吸菸者而設的。",
+      "file": "c001.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 2,
+      "text": "找一個舒適的坐姿，或躺下如果感覺更好。",
+      "file": "c002.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 3,
+      "text": "讓雙手放鬆。",
+      "file": "c003.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 4,
+      "text": "放鬆眼睛，或閉上。",
+      "file": "c004.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 5,
+      "text": "緩慢吸氣。",
+      "file": "c005.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 6,
+      "text": "然後緩慢呼氣。",
+      "file": "c006.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 7,
+      "text": "[暫停:16]",
+      "file": "c007.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 8,
+      "text": "感受身體被支撐。",
+      "file": "c008.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 9,
+      "text": "無需證明。無需匆忙。",
+      "file": "c009.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 10,
+      "text": "[暫停:16]",
+      "file": "c010.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 11,
+      "text": "我們將使用清晰的自由宣告。",
+      "file": "c011.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 12,
+      "text": "傾聽，或在內心默默重複那些真實的話。",
+      "file": "c012.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 13,
+      "text": "[暫停:18]",
+      "file": "c013.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 14,
+      "text": "我現在是一個非吸菸者。",
+      "file": "c014.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 15,
+      "text": "[暫停:16]",
+      "file": "c015.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 16,
+      "text": "我很高興擺脫了尼古丁疾病。",
+      "file": "c016.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 17,
+      "text": "[暫停:18]",
+      "file": "c017.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 18,
+      "text": "吸菸不再是我生活或身份的一部分。",
+      "file": "c018.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 19,
+      "text": "[暫停:18]",
+      "file": "c019.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 20,
+      "text": "我之所以有這些觸發，是因為過去的記憶或看到其他吸菸者。",
+      "file": "c020.ogg",
+      "durationSec": 9.024
+    },
+    {
+      "index": 21,
+      "text": "[暫停:18]",
+      "file": "c021.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 22,
+      "text": "這些誘因對我無能為力，因為我已經擺脫了成癮的奴役。",
+      "file": "c022.ogg",
+      "durationSec": 8.4
+    },
+    {
+      "index": 23,
+      "text": "[暫停:22]",
+      "file": "c023.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 24,
+      "text": "我為那些仍被困在吸菸欺騙中的吸菸者感到遺憾。",
+      "file": "c024.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 25,
+      "text": "他們被困在尼古丁耗盡、渴望和補給的痛苦迴圈中。",
+      "file": "c025.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 26,
+      "text": "[暫停:18]",
+      "file": "c026.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 27,
+      "text": "我不再像他們一樣受苦。",
+      "file": "c027.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 28,
+      "text": "[暫停:14]",
+      "file": "c028.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 29,
+      "text": "現在我知道真相了。",
+      "file": "c029.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 30,
+      "text": "吸菸絕對沒有任何好處。",
+      "file": "c030.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 31,
+      "text": "[暫停:18]",
+      "file": "c031.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 32,
+      "text": "尿檢棒從未幫助過任何人，也永遠不會。",
+      "file": "c032.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 33,
+      "text": "[暫停:18]",
+      "file": "c033.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 34,
+      "text": "吸菸給我帶來了許多問題。",
+      "file": "c034.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 35,
+      "text": "[暫停:14]",
+      "file": "c035.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 36,
+      "text": "我做出了我一生中最好的決定，再也不吸那令人作嘔的毒物了。",
+      "file": "c036.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 37,
+      "text": "這個決定是最終的。",
+      "file": "c037.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 38,
+      "text": "[暫停:22]",
+      "file": "c038.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 39,
+      "text": "現在，我尊重吸菸法則。",
+      "file": "c039.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 40,
+      "text": "[暫停:18]",
+      "file": "c040.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 41,
+      "text": "現在，我所有的情況都在變好。",
+      "file": "c041.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 42,
+      "text": "我變得越來越快樂、健康和自信。",
+      "file": "c042.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 43,
+      "text": "[暫停:22]",
+      "file": "c043.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 44,
+      "text": "我自由了。",
+      "file": "c044.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 45,
+      "text": "[暫停:28]",
+      "file": "c045.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 46,
+      "text": "在自由中靜心呼吸幾下。",
+      "file": "c046.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 47,
+      "text": "觸發因素可能仍會像舊記憶一樣來訪。",
+      "file": "c047.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 48,
+      "text": "它們無法將你帶回奴役狀態。",
+      "file": "c048.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 49,
+      "text": "[暫停:36]",
+      "file": "c049.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 50,
+      "text": "我現在是一個不吸菸的人。",
+      "file": "c050.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 51,
+      "text": "我自由了。",
+      "file": "c051.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 52,
+      "text": "[暫停:28]",
+      "file": "c052.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 53,
+      "text": "再輕鬆地呼吸一次。",
+      "file": "c053.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 54,
+      "text": "活動一下手指。",
+      "file": "c054.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 55,
+      "text": "當你準備好了，睜開眼睛。",
+      "file": "c055.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 56,
+      "text": "帶著這份自由前行。",
+      "file": "c056.ogg",
+      "durationSec": 4.656
+    }
+  ]
+}

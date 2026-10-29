@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-clear-5",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 241,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "這是一次清晰呼吸的練習。",
+      "file": "c001.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 2,
+      "text": "找個舒適的坐姿，或者如果感覺更好，也可以躺下。",
+      "file": "c002.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 3,
+      "text": "讓雙手放鬆。",
+      "file": "c003.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 4,
+      "text": "放鬆眼睛，或者閉上。",
+      "file": "c004.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 5,
+      "text": "透過鼻子緩慢吸氣。",
+      "file": "c005.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 6,
+      "text": "然後緩慢呼氣。",
+      "file": "c006.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 7,
+      "text": "[暫停:10]",
+      "file": "c007.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 8,
+      "text": "注意空氣的狀態。",
+      "file": "c008.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 9,
+      "text": "吸氣時涼爽。",
+      "file": "c009.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 10,
+      "text": "呼氣時溫暖。",
+      "file": "c010.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 11,
+      "text": "沒有煙。沒有毒。只有呼吸。",
+      "file": "c011.ogg",
+      "durationSec": 9.24
+    },
+    {
+      "index": 12,
+      "text": "[暫停:12]",
+      "file": "c012.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 13,
+      "text": "感受胸部自然擴張。",
+      "file": "c013.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 14,
+      "text": "感受肋骨微微展開。",
+      "file": "c014.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 15,
+      "text": "[暫停:12]",
+      "file": "c015.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 16,
+      "text": "將一隻手放在心臟上，或雙手放在膝蓋上。",
+      "file": "c016.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 17,
+      "text": "感受正在癒合的身體。",
+      "file": "c017.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 18,
+      "text": "肺部在清理。血液更通暢。嗅覺一天天恢復。",
+      "file": "c018.ogg",
+      "durationSec": 12.0
+    },
+    {
+      "index": 19,
+      "text": "[暫停:16]",
+      "file": "c019.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 20,
+      "text": "靜默地嘗試這些話語，或只是聆聽。",
+      "file": "c020.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 21,
+      "text": "我的呼吸屬於我。",
+      "file": "c021.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 22,
+      "text": "[暫停:12]",
+      "file": "c022.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 23,
+      "text": "我選擇清新的空氣。",
+      "file": "c023.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 24,
+      "text": "[暫停:12]",
+      "file": "c024.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 25,
+      "text": "我已擺脫那種毒物。",
+      "file": "c025.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 26,
+      "text": "[暫停:14]",
+      "file": "c026.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 27,
+      "text": "想象你下一個沒有香菸的普通時刻。",
+      "file": "c027.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 28,
+      "text": "咖啡。散步。飯後暫停。",
+      "file": "c028.ogg",
+      "durationSec": 9.624
+    },
+    {
+      "index": 29,
+      "text": "看到自己在那一刻已完整，已經自由。",
+      "file": "c029.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 30,
+      "text": "[暫停:22]",
+      "file": "c030.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 31,
+      "text": "如果吸菸的記憶出現，讓它成為一幅畫面，而不是一個計劃。",
+      "file": "c031.ogg",
+      "durationSec": 9.288
+    },
+    {
+      "index": 32,
+      "text": "回到這次吸氣。",
+      "file": "c032.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 33,
+      "text": "回到這次呼氣。",
+      "file": "c033.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 34,
+      "text": "[暫停:14]",
+      "file": "c034.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 35,
+      "text": "吸進自由。",
+      "file": "c035.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 36,
+      "text": "撥出舊習慣的故事。",
+      "file": "c036.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 37,
+      "text": "[暫停:14]",
+      "file": "c037.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 38,
+      "text": "你做出了重要的決定。",
+      "file": "c038.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 39,
+      "text": "你的身體正在追上這個真相。",
+      "file": "c039.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 40,
+      "text": "[暫停:12]",
+      "file": "c040.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 41,
+      "text": "再吸一口清晰的氣。",
+      "file": "c041.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 42,
+      "text": "然後緩緩撥出一長口氣。",
+      "file": "c042.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 43,
+      "text": "活動一下手指。",
+      "file": "c043.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 44,
+      "text": "當你準備好了，睜開眼睛。",
+      "file": "c044.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 45,
+      "text": "將這清晰的空氣帶在身邊。",
+      "file": "c045.ogg",
+      "durationSec": 5.4
+    }
+  ]
+}

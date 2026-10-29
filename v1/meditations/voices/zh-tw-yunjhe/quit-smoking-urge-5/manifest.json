@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-urge-5",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 242,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "如果渴望出現了，你就在正確的地方。",
+      "file": "c001.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 2,
+      "text": "你不需要與它對抗，也不需要餵養它。",
+      "file": "c002.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 3,
+      "text": "找一個穩定的坐姿，或雙腳著地站立。",
+      "file": "c003.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 4,
+      "text": "放鬆眼睛，或保持柔和的凝視。",
+      "file": "c004.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 5,
+      "text": "緩慢地吸氣。",
+      "file": "c005.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 6,
+      "text": "然後撥出更長的氣。",
+      "file": "c006.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 7,
+      "text": "[暫停:12]",
+      "file": "c007.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 8,
+      "text": "簡單地命名正在發生的事。",
+      "file": "c008.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 9,
+      "text": "一種渴望存在。",
+      "file": "c009.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 10,
+      "text": "它是身體和心靈中的一波浪潮。",
+      "file": "c010.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 11,
+      "text": "它不是命令。",
+      "file": "c011.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 12,
+      "text": "[暫停:14]",
+      "file": "c012.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 13,
+      "text": "注意你在哪裡感受到它。",
+      "file": "c013.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 14,
+      "text": "胸部。喉嚨。手。不安。",
+      "file": "c014.ogg",
+      "durationSec": 11.496
+    },
+    {
+      "index": 15,
+      "text": "不需要讓它變大。只需定位它。",
+      "file": "c015.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 16,
+      "text": "[暫停:16]",
+      "file": "c016.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 17,
+      "text": "向那個地方呼吸。",
+      "file": "c017.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 18,
+      "text": "吸氣，進入柔軟的空間。",
+      "file": "c018.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 19,
+      "text": "呼氣，不採取行動。",
+      "file": "c019.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 20,
+      "text": "[暫停:16]",
+      "file": "c020.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 21,
+      "text": "衝動升起，達到頂峰，然後消退。",
+      "file": "c021.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 22,
+      "text": "你是岸邊。波浪穿過。",
+      "file": "c022.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 23,
+      "text": "[暫停:18]",
+      "file": "c023.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 24,
+      "text": "如果頭腦提供一個需要香菸的故事，感謝它並回歸。",
+      "file": "c024.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 25,
+      "text": "回到呼吸。",
+      "file": "c025.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 26,
+      "text": "回到腳踩在地板上。",
+      "file": "c026.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 27,
+      "text": "[暫停:16]",
+      "file": "c027.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 28,
+      "text": "如果有所幫助，可以默唸。",
+      "file": "c028.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 29,
+      "text": "這是暫時的。",
+      "file": "c029.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 30,
+      "text": "我可以不吸菸地度過這個時刻。",
+      "file": "c030.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 31,
+      "text": "[暫停:18]",
+      "file": "c031.ogg",
+      "durationSec": 4.176
+    },
+    {
+      "index": 32,
+      "text": "再次。柔和的吸氣。",
+      "file": "c032.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 33,
+      "text": "更長的呼氣。",
+      "file": "c033.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 34,
+      "text": "[暫停:16]",
+      "file": "c034.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 35,
+      "text": "注意任何緩解，哪怕只有一點。",
+      "file": "c035.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 36,
+      "text": "或者注意到你與自己同在。",
+      "file": "c036.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 37,
+      "text": "兩者都算數。",
+      "file": "c037.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 38,
+      "text": "[暫停:16]",
+      "file": "c038.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 39,
+      "text": "你是一個不吸菸者，遇見一箇舊的回聲。",
+      "file": "c039.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 40,
+      "text": "渴望可能會造訪。但它不能擁有你。",
+      "file": "c040.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 41,
+      "text": "[暫停:14]",
+      "file": "c041.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 42,
+      "text": "再輕鬆地呼吸一次。",
+      "file": "c042.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 43,
+      "text": "活動手指。",
+      "file": "c043.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 44,
+      "text": "當你準備好了，睜開眼睛。",
+      "file": "c044.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 45,
+      "text": "繼續你自由的一天。",
+      "file": "c045.ogg",
+      "durationSec": 4.128
+    }
+  ]
+}

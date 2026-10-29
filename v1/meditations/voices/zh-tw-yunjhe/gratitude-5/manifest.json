@@ -1,0 +1,184 @@
+{
+  "id": "gratitude-5",
+  "voiceId": "zh-tw-yunjhe",
+  "edgeVoice": "zh-TW-YunJheNeural",
+  "rate": "-42%",
+  "pitch": "-12Hz",
+  "totalSec": 156,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "歡迎。",
+      "file": "c000.ogg",
+      "durationSec": 3.144
+    },
+    {
+      "index": 1,
+      "text": "找一個舒適的座位，或者如果感覺好一點的話就躺下來。",
+      "file": "c001.ogg",
+      "durationSec": 8.856
+    },
+    {
+      "index": 2,
+      "text": "讓雙手休息一下。",
+      "file": "c002.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 3,
+      "text": "軟化眼睛，或閉上眼睛。",
+      "file": "c003.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 4,
+      "text": "緩慢吸氣。",
+      "file": "c004.ogg",
+      "durationSec": 3.528
+    },
+    {
+      "index": 5,
+      "text": "並且呼氣時間更長。",
+      "file": "c005.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 6,
+      "text": "回想今天或本週對你有幫助的一件小事。",
+      "file": "c006.ogg",
+      "durationSec": 6.768
+    },
+    {
+      "index": 7,
+      "text": "它可以是普通的。溫水。一條訊息。牆上的光。",
+      "file": "c007.ogg",
+      "durationSec": 13.728
+    },
+    {
+      "index": 8,
+      "text": "[暫停：21]",
+      "file": "c008.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 9,
+      "text": "意識地輕輕握住它。",
+      "file": "c009.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 10,
+      "text": "注意胸部或面部的任何軟化。",
+      "file": "c010.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 11,
+      "text": "[暫停：26]",
+      "file": "c011.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 12,
+      "text": "默默地感謝這一件事。",
+      "file": "c012.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 13,
+      "text": "感謝您來到這裡。",
+      "file": "c013.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 14,
+      "text": "[暫停：21]",
+      "file": "c014.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 15,
+      "text": "現在是第二件事。又一個小好事。",
+      "file": "c015.ogg",
+      "durationSec": 7.992
+    },
+    {
+      "index": 16,
+      "text": "[暫停：26]",
+      "file": "c016.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 17,
+      "text": "謝謝。",
+      "file": "c017.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 18,
+      "text": "[暫停：15]",
+      "file": "c018.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 19,
+      "text": "還有一個。第三個。",
+      "file": "c019.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 20,
+      "text": "[暫停：26]",
+      "file": "c020.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 21,
+      "text": "讓感恩變得簡單。不是強迫的。剛剛注意到。",
+      "file": "c021.ogg",
+      "durationSec": 11.232
+    },
+    {
+      "index": 22,
+      "text": "[暫停：31]",
+      "file": "c022.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 23,
+      "text": "在溫暖中休息幾次。",
+      "file": "c023.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 24,
+      "text": "[暫停：41]",
+      "file": "c024.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 25,
+      "text": "再輕鬆地吸一口氣。",
+      "file": "c025.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 26,
+      "text": "動動手指。",
+      "file": "c026.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 27,
+      "text": "準備好後，睜開眼睛。",
+      "file": "c027.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 28,
+      "text": "隨身攜帶一點這個。",
+      "file": "c028.ogg",
+      "durationSec": 4.56
+    }
+  ]
+}
